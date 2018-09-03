@@ -1,0 +1,39 @@
+
+img {
+  height: 170px;
+  width: 170px;
+  margin-left: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+  justify-content: space-around;
+}
+
+.center {
+  text-align: center;
+  color: gray;
+}
+
+.selection {
+  height: 100px;
+  width: 100px;
+  /* border-radius: 50px; */
+}
+
+
+
+.outcome {
+  padding-top: 100px;
+  display: inline-block;
+  justify-content: space-around;
+}
+
+
+
+#game > h1 {
+  text-align: center;
+  color: red;
+}
+
+#selection {
+  display: inline-block;
+}
